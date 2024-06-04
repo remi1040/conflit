@@ -1,1 +1,3 @@
 # conflit
+
+gerer les conflits
